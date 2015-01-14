@@ -1,0 +1,2 @@
+# ClarityOnChrome
+Clarity Chrome Extension
